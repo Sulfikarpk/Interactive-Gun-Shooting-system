@@ -12,9 +12,10 @@ This project demonstrates embedded firmware development, servo control, hardware
 
 ## Project Images
 
-Add project images here:
 
-![Interactive Gun Setup](images/interactive_gun.jpg)
+![Image1](https://github.com/Sulfikarpk/Interactive-Gun-Shooting-system/blob/main/Gun_Project%20_image.jpeg)
+
+![Image2](https://github.com/Sulfikarpk/Interactive-Gun-Shooting-system/blob/main/gun_mechanical_setup.jpeg)
 
 ---
 
@@ -25,6 +26,12 @@ testing1 https://youtube.com/shorts/4SQ0wr-eyJo?feature=share
 testing2 https://youtu.be/zYuCQR-cJ6U
 
 final_out https://youtu.be/kATsUKAYOL0
+
+---
+
+## Source Code 
+
+code :- https://github.com/Sulfikarpk/Interactive-Gun-Shooting-system/blob/main/GUN.ino
 
 ---
 
