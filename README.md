@@ -20,9 +20,9 @@ Add project images here:
 
 ## Project Video
 
-Add project demonstration video here:
-
-[Demo Video Link]
+testing1 https://youtube.com/shorts/4SQ0wr-eyJo?feature=share
+testing2 https://youtu.be/zYuCQR-cJ6U
+final_out https://youtu.be/kATsUKAYOL0
 
 ---
 
