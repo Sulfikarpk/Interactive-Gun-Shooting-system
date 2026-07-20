@@ -1,7 +1,6 @@
 # Interactive Gun Shooting System
 
 ## Project Description
-
 The Interactive Gun Shooting System is an interactive gaming setup developed using embedded electronics and a computer-based application to create a real-time shooting experience.
 This system allows users to play a shooting game using a physical toy gun integrated with an embedded control system. When the game starts, a video-based shooting environment is displayed on the screen. The user aims the toy gun toward the screen, and the system tracks the gun position to control the aiming pointer.
 The gun position is calculated using servo-based X and Y axis movement tracking. The position data is collected through the TTLinker interface and processed by the ESP32 controller. The ESP32 communicates the position data to the computer application, which controls the pointer movement according to the gun position.
